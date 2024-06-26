@@ -16,7 +16,7 @@
 <li>GIT</li>
 </ul>
 <h1>Code</h1>
-<code>
+<pre>
 const findDuplicate = (arr) => {
   const duplicates = []
   arr.sort((a,b) => a - b)
@@ -27,6 +27,9 @@ const findDuplicate = (arr) => {
   })
   return duplicates
 }</code>
+
+</pre>
+<code>
 <h1>My projects</h1>
 <p><a href="https://github.com/qwavy/online-shop">online shop</a></p>
 <h1>Education</h1>
