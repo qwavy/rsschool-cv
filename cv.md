@@ -27,3 +27,9 @@ const findDuplicate = (arr) => {
   })
   return duplicates
 }</p>
+<h1>My projects</h1>
+<p><a href="https://github.com/qwavy/online-shop">online shop</a></p>
+<h1>Education</h1>
+<p>stepik js course</p>
+<h1>English</h1>
+<p>A2</p>
