@@ -1,0 +1,30 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.name-title{
+    font-size: 50px;
+    text-align: center;
+}
+.section-title{
+    font-size: 15px;
+    text-align: center;
+}
+.list{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.about-description{
+    margin: auto;
+    width: 50%;
+}
+
+
+.code{
+    margin: auto;
+}
